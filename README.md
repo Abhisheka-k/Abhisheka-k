@@ -1,4 +1,4 @@
-#« About Me:
+bi#« About Me:
  Currently learning: Python | Java | Web Development | AI/ML | SQL<br>¡ Interested in: Software Development | AI | Machine Learning | Full-Stack Development<br> Goal: To build a successful career as a Software Engineer<br>Iam always open to learning, collaboration, internships, and new opportunities.
 
 
