@@ -1,5 +1,5 @@
-# ðŸ’« About Me:
-ðŸš€ Currently learning: Python | Java | Web Development | AI/ML | SQL<br>ðŸ’¡ Interested in: Software Development | AI | Machine Learning | Full-Stack Development<br>ðŸŽ¯ Goal: To build a successful career as a Software Engineer<br>Iâ€™m always open to learning, collaboration, internships, and new opportunities.
+#« About Me:
+ Currently learning: Python | Java | Web Development | AI/ML | SQL<br>ðŸ’¡ Interested in: Software Development | AI | Machine Learning | Full-Stack Development<br> Goal: To build a successful career as a Software Engineer<br>Iâ€™m always open to learning, collaboration, internships, and new opportunities.
 
 
 # ðŸ’» Tech Stack:
